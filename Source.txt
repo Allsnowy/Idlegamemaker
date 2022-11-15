@@ -1,0 +1,6 @@
+Let's make a game!
+	name:Cat Petting simulator 
+	author:Snowy
+	version:1.0
+Settings
+	building cost increase:125%
